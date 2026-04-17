@@ -73,8 +73,10 @@ model = TAD_IDS(group_dims=[12, 10, 8, 15, 20, 13], embed_dim=32)
 logits = model(packet_data, timing_data, flag_data, flow_data, conn_data, res_data)
 
 ```
+---
 
-License
-This project is released under the MIT License. See LICENSE for full details.
+## License
 
-Engineered for high-performance, temporally-robust network security research.
+This project is released under the **[MIT License](LICENSE)**. 
+
+*Engineered for high-performance, temporally-robust network security research.*
