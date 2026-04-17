@@ -275,8 +275,9 @@ If you use this work, please cite:
   title  = {Temporal Fragility in Network Intrusion Detection:
              Evaluation Methodology, Threshold Calibration,
              and Structured Feature Modeling},
-  author = {Bharadwaj},
+  author = {Sashi Bharadwaj Pulikanti},
   year   = {2025},
+  orcid  = {0009-0002-8904-2209},
   note   = {Research prototype. CIC-IDS-2017 temporal split study.},
   url    = {https://github.com/heraclitus0/TAD-IDS}
 }
